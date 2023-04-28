@@ -4,6 +4,9 @@
 - Environment set up for Express and MongoDB
 - To do: background reading on MDN, compare 2 "hello world" beginner set up
 
+4/28/23:
+- hello express sample walked through  
+
 
 
 
