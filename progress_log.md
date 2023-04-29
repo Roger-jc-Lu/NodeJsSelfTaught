@@ -9,8 +9,9 @@
 
 4/29/23:
 - set up route for blog
-- To do: 1. check methods for "app"
-         2. complete index implementation and check first depolyment
+- To do: 
+     1. check methods for "app"  
+     2. complete index implementation and check first depolyment
 
 
 
